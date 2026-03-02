@@ -1,0 +1,14 @@
+{
+  "name": "Steam-cracking-AAI-industry-compatibility",
+  "version": "1.0",
+  "title": "Compatibility for steam cracking with AAI industry",
+  "author": "Nezgal",
+  "homepage": "https://github.com/Nezgal/Steam-cracking-AAI-industry-compatibility",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "SteamCracking",
+    "aai-industry"
+  ],
+  "description": "Replaces water with steam in oil processing recipes"
+}
